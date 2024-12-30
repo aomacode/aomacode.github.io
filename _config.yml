@@ -91,12 +91,12 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "洛谷OJ", href: "https://www.luogu.com.cn/" },
+    { title: "东方博宜OJ", href: "https://oj.czos.cn/" },
+    { title: "一本通OJ", href: "https://ybt.ssoier.cn/index.php" },
+    { title: "OI Wiki", href: "https://oi-wiki.org/" },
+    { title: "奥码OJ", href: "https://hydro.ac/d/aoma/" },
+    { title: "GESP考级", href: "https://gesp.ccf.org.cn/" },
+    { title: "NOC", href: "http://s.noc.net.cn/" },
+    { title: "蓝桥杯", href: "https://www.lanqiaoqingshao.cn/home" },
   ]
