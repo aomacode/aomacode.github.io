@@ -2,7 +2,7 @@
 layout:     post
 title:      "学习"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
+date:       2024-12-31 12:00:00
 author:     "Hux"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
