@@ -4,7 +4,6 @@ title:      "CCF GESP考级介绍"
 subtitle:   "图形化 | C++ | Python"
 date:       2024-12-31 12:00:00
 author:     "奥码编程"
-header-img: "img/gesp_bg.png"
 catalog: true
 tags:
     - 考级
