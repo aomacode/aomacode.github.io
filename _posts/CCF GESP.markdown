@@ -5,7 +5,7 @@ author:       "火柴"
 header-style: text
 catalog:      true
 tags:
-    - GESP
+    - Web
 ---
 
     CCF编程能力等级认证，英文名Grade Examination of Software Programming（以下简称GESP），由中国计算机学会发起并主办，是为青少年计算机和编程学习者提供学业能力验证的平台。GESP旨在提升青少年计算机和编程教育水平，推广和普及青少年计算机和编程教育。GESP覆盖中小学全学段，符合条件的青少年均可参加认证。
