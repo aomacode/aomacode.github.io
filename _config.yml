@@ -77,8 +77,8 @@ sidebar: false  # whether or not using Sidebar. 不展示
 sidebar-about-description: "要做一个有温度的编程教育"
 sidebar-avatar: https://github.com/aomacode.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
-# Featured Tags
-featured-tags: true # whether or not using Feature-Tags
+# Featured Tags 是否显示标签
+featured-tags: false # whether or not using Feature-Tags
 featured-condition-size: 2 # A tag will be featured if the size of it is more than this condition value
 
 # Progressive Web Apps
