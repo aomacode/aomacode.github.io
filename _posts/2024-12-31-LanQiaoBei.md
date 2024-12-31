@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "蓝桥杯竞赛介绍"
-subtitle: "STME 省赛 国赛"
+subtitle: "教育部白名单少儿编程竞赛"
 author: "奥码编程"
 header-style: text
 tags:
