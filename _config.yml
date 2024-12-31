@@ -72,8 +72,8 @@ netease_comment: false
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
 ga_domain: aomacode.me
 
-# Sidebar settings
-sidebar: true # whether or not using Sidebar.
+# Sidebar settings 自己的展示，例如头像
+sidebar: false  # whether or not using Sidebar. 不展示
 sidebar-about-description: "要做一个有温度的编程教育"
 sidebar-avatar: https://github.com/aomacode.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
