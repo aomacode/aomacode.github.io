@@ -1,5 +1,13 @@
-
-
+---
+title: "第一课 输出数据"
+subtitle: "输出 | 数据类型 | 类型查询"
+layout: post
+author: "Aoma"
+header-style: text
+hidden: true
+tags:
+  - Python
+---
 
 ### 程序输出
 程序输出指的是执行程序后的呈现结果。例如王者荣耀中画面效果、语音都是程序输出的表现形式，可以是文字、图片、声音等，最基本的输出形式就是文字信息。
