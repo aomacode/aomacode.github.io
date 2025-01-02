@@ -1,15 +1,12 @@
-@media (min-width: 1200px) {
+@media (min-width: 5000px) {
   .post-container,
   .sidebar-container {
-    padding-right: 5%;
-  }
-  .column {
-    width: 50%;
+    padding-right: 50%;
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 3000px) {
   .post-container {
-    padding-right: 5%;
+    padding-right: 50%;
   }
 }
 .sidebar-container {
