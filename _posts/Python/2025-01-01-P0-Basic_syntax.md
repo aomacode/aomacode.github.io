@@ -6,7 +6,7 @@ author: "Aoma"
 header-style: text
 hidden: true
 tags:
-  - Python
+  - Python基础
 ---
 
 ### 输出数据 `print()`
