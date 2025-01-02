@@ -60,7 +60,7 @@ maxc = a>b ? a endl : b;
 
 
 
-  ### 分支嵌套示例
+### 分支嵌套示例
 
 ```c++
 #include <iostream>
