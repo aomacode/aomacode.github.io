@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基础语法"
+title: "先导 Python基础语法"
 subtitle: "快速入门学习"
 author: "Aoma"
 header-style: text
