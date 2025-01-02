@@ -1,3 +1,4 @@
+---
 layout: post
 title: "输入输出"
 subtitle: "输出 | 数据 | 整数 | 浮点数 | 常量 | 变量 | 输入"
